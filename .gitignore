@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch
+*.pth
+*.pt
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.zip
+*.tar.gz
+*.h5
+
+# Model artifacts and logs
+*.pkl
+*.log
+*.onnx
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# Ignore local dataset and output folders
+E:\FinalData\
+E:\Dataset\
+E:\ProcessedV3\
