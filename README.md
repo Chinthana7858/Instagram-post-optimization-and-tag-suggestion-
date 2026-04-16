@@ -5,6 +5,7 @@
 This repository contains a social media hashtag prediction and reach optimization research project. It includes data preprocessing, image-only modeling, multimodal modeling with user influence, and experimental optimizations for hashtag reach. The code is mainly implemented in Python and uses PyTorch, torchvision, scikit-learn, pandas, and related libraries.
 
 > Note: Most scripts currently use hardcoded Windows paths such as `E:\FinalData` and `E:\Dataset`. Update these paths before running the code on another machine.
+<img width="1408" height="969" alt="image" src="https://github.com/user-attachments/assets/5ae180df-2f92-4f7f-820a-a4046081a70c" />
 
 ---
 
